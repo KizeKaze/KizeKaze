@@ -26,10 +26,10 @@ I’m transitioning into tech with a focus on backend development, clean archite
 
 ## 📌 Featured Projects
 
-### 🍔 Fast Food Grocery Shopping - Originally started as a fast‑food ordering app — evolved into a full grocery shopping system.
+### 🍔 Fast Food Grocery Shopping - Started as a fast‑food ordering app, evolved into a full shopping system.
 A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
 **Tech:** PHP, MySQL, Sessions, Prepared Statements  
-🔗 Repo: *Coming soon to GitHub*
+🔗 Repo: https://github.com/KizeKaze/fast-food-simple
 
 ### 📝 Digital CV Website
 A responsive CV built with Flexbox, gradients, and a warm earthy theme.  
