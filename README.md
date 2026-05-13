@@ -51,14 +51,6 @@ A responsive CV built with Flexbox, gradients, and a warm earthy theme.
 
 ---
 
-## 📈 GitHub Stats
-<hr>
-
-![Raymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KizeKaze&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KizeKaze&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact
 <hr>
 
