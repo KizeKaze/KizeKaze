@@ -7,7 +7,6 @@ I’m transitioning into tech with a focus on backend development, clean archite
 ---
 
 ## 🔧 Tech Stack
-<hr>
 
 **Languages**
 - PHP • JavaScript • SQL • HTML • CSS
@@ -26,7 +25,6 @@ I’m transitioning into tech with a focus on backend development, clean archite
 ---
 
 ## 📌 Featured Projects
-<hr>
 
 ### 🍔 Fast Food Grocery Shopping
 A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
@@ -41,7 +39,6 @@ A responsive CV built with Flexbox, gradients, and a warm earthy theme.
 ---
 
 ## 🧠 About Me
-<hr>
 
 - I learn by breaking things down into patterns and rebuilding them  
 - I enjoy backend logic, validation, and making systems behave correctly  
@@ -52,7 +49,6 @@ A responsive CV built with Flexbox, gradients, and a warm earthy theme.
 ---
 
 ## 📫 Contact
-<hr>
 
 - **Portfolio:** www.raywebdev.com [ Currently rebuilding my portfolio with a modern layout - updates to follow ]
 - **Email:** Ray337@pm.me  
