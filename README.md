@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Raymond
 
-<!--
-**KizeKaze/KizeKaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Backend Developer • Web Dev Student • Builder of Practical, Real‑World Projects
 
-Here are some ideas to get you started:
+I’m transitioning into tech with a focus on backend development, clean architecture, and building things that actually solve problems. I learn best through patterns, examples, and hands‑on work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+<hr>
+
+**Languages**
+- PHP • JavaScript • SQL • HTML • CSS
+
+**Backend & Tools**
+- PHP OOP • MySQL • Prepared Statements • Sessions & Auth • REST Patterns
+
+**Frontend**
+- DOM Manipulation • Flexbox • Responsive Layouts
+
+**Currently Learning**
+- Modern JavaScript Patterns  
+- Routing & MVC Concepts  
+- Clean Code Architecture  
+
+---
+
+## 📌 Featured Projects
+<hr>
+
+### 🍔 Fast Food Grocery Shopping
+A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
+**Tech:** PHP, MySQL, Sessions, Prepared Statements  
+🔗 Repo: *Coming soon to GitHub*
+
+### 📝 Digital CV Website
+A responsive CV built with Flexbox, gradients, and a warm earthy theme.  
+**Tech:** HTML, CSS, Flexbox  
+🔗 Repo: *Coming soon to GitHub*
+
+---
+
+## 🧠 About Me
+<hr>
+
+- I learn by breaking things down into patterns and rebuilding them  
+- I enjoy backend logic, validation, and making systems behave correctly  
+- I value clean, readable code and intentional design  
+- I’m rebuilding my foundation through structured learning and real projects  
+- I’m motivated by creating things that feel good to use  
+
+---
+
+## 📈 GitHub Stats
+<hr>
+
+![Raymond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KizeKaze&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KizeKaze&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+<hr>
+
+- **Portfolio:** www.raywebdev.com [ Currently rebuilding my portfolio with a modern layout - updates to follow ]
+- **Email:** Ray337@pm.me  
+- **LinkedIn:** https://www.linkedin.com/in/raymond-williams-16405a242/
+
+Thanks for stopping by — I’m always building, always learning, and always improving.
