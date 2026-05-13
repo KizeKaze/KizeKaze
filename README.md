@@ -26,7 +26,7 @@ I’m transitioning into tech with a focus on backend development, clean archite
 
 ## 📌 Featured Projects
 
-### 🍔 Fast Food Grocery Shopping
+### 🍔 Fast Food Grocery Shopping - Originally started as a fast‑food ordering app — evolved into a full grocery shopping system.
 A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
 **Tech:** PHP, MySQL, Sessions, Prepared Statements  
 🔗 Repo: *Coming soon to GitHub*
