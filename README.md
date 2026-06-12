@@ -6,7 +6,7 @@ I’m transitioning into tech with a focus on backend development, clean archite
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 - PHP • JavaScript • SQL • HTML • CSS
@@ -33,12 +33,12 @@ I’m transitioning into tech with a focus on backend development, clean archite
 ### Fast Food Grocery Shopping - Started as a fast‑food ordering app, evolved into a full shopping system.
 A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
 **Tech:** PHP, MySQL, Sessions, Prepared Statements  
-🔗 Repo: https://github.com/KizeKaze/fast-food-simple
+ Repo: https://github.com/KizeKaze/fast-food-simple
 
 ### Digital CV Website
 A responsive CV built with Flexbox, gradients, and a warm earthy theme.  
 **Tech:** HTML, CSS, Flexbox  
-🔗 Repo: *Coming soon to GitHub*
+ Repo: *Coming soon to GitHub*
 
 ---
 
