@@ -11,34 +11,38 @@ I’m transitioning into tech with a focus on backend development, clean archite
 **Languages**
 - PHP • JavaScript • SQL • HTML • CSS
 
+**Databases**
+- MySQL • PostgreSQL • MongoDB
+
 **Backend & Tools**
-- PHP OOP • MySQL • Prepared Statements • Sessions & Auth • REST Patterns
+- PHP OOP • Prepared Statements • Sessions & Auth • REST Patterns • Node.Js • Express.Js 
 
 **Frontend**
-- DOM Manipulation • Flexbox • Responsive Layouts
+- DOM Manipulation • Flexbox • Responsive Layouts • React
 
 **Currently Learning**
 - Modern JavaScript Patterns  
 - Routing & MVC Concepts  
-- Clean Code Architecture  
+- Clean Code Architecture
+- MERN Stack 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🍔 Fast Food Grocery Shopping - Started as a fast‑food ordering app, evolved into a full shopping system.
+### Fast Food Grocery Shopping - Started as a fast‑food ordering app, evolved into a full shopping system.
 A full CRUD ordering system with cart logic, authentication, password resets, and admin controls.  
 **Tech:** PHP, MySQL, Sessions, Prepared Statements  
 🔗 Repo: https://github.com/KizeKaze/fast-food-simple
 
-### 📝 Digital CV Website
+### Digital CV Website
 A responsive CV built with Flexbox, gradients, and a warm earthy theme.  
 **Tech:** HTML, CSS, Flexbox  
 🔗 Repo: *Coming soon to GitHub*
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - I learn by breaking things down into patterns and rebuilding them  
 - I enjoy backend logic, validation, and making systems behave correctly  
@@ -48,7 +52,7 @@ A responsive CV built with Flexbox, gradients, and a warm earthy theme.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Portfolio:** www.raywebdev.com [ Currently rebuilding my portfolio with a modern layout - updates to follow ]
 - **Email:** Ray337@pm.me  
